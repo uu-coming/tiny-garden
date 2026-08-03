@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Tiny Garden — "corn poppy" flower head. CC BY-NC 4.0 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="-33.4 -33.4 66.8 66.8">
+  <title>corn poppy</title>
+  <g>
+    <ellipse cx="0" cy="-14.7" rx="12.9" ry="14.7" fill="#f8b4d0" opacity="0.9" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-14.7" rx="12.9" ry="14.7" fill="#f599c1" opacity="0.9" transform="rotate(90)"/>
+    <ellipse cx="0" cy="-14.7" rx="12.9" ry="14.7" fill="#f8b4d0" opacity="0.9" transform="rotate(180)"/>
+    <ellipse cx="0" cy="-14.7" rx="12.9" ry="14.7" fill="#f599c1" opacity="0.9" transform="rotate(270)"/>
+    <circle cx="0" cy="0" r="7.5" fill="#e8d5c4"/>
+    <circle cx="0" cy="0" r="3.9" fill="#f5e6d3"/>
+    <circle cx="0" cy="0" r="1.8" fill="#fffacd" opacity="0.4"/>
+  </g>
+</svg>

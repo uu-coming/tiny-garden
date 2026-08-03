@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Tiny Garden — "forget me not" flower head. CC BY-NC 4.0 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="-26.67 -26.41 53.34 53.34">
+  <title>forget-me-not</title>
+  <g>
+    <ellipse cx="0" cy="-11.7" rx="7.8" ry="9.6" fill="#b8d8e8" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-11.7" rx="7.8" ry="9.6" fill="#9dcde6" transform="rotate(72)"/>
+    <ellipse cx="0" cy="-11.7" rx="7.8" ry="9.6" fill="#b8d8e8" transform="rotate(144)"/>
+    <ellipse cx="0" cy="-11.7" rx="7.8" ry="9.6" fill="#9dcde6" transform="rotate(216)"/>
+    <ellipse cx="0" cy="-11.7" rx="7.8" ry="9.6" fill="#b8d8e8" transform="rotate(288)"/>
+    <circle cx="0" cy="0" r="5.4" fill="#fef08a"/>
+    <circle cx="0" cy="0" r="2.4" fill="#fde047"/>
+  </g>
+</svg>

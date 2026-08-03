@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Tiny Garden — "lavender" flower head. CC BY-NC 4.0 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="-35.5 -64.3 71 71">
+  <title>lavender</title>
+  <g>
+    <ellipse cx="-2.7" cy="-2.4" rx="3.3" ry="5.1" fill="#8b4ba6"/>
+    <ellipse cx="2.7" cy="-2.4" rx="3.3" ry="5.1" fill="#8b4ba6"/>
+    <ellipse cx="-2.7" cy="-7.2" rx="3.3" ry="5.1" fill="#9557b0"/>
+    <ellipse cx="2.7" cy="-7.2" rx="3.3" ry="5.1" fill="#9557b0"/>
+    <ellipse cx="-2.7" cy="-12" rx="3.3" ry="5.1" fill="#9f63ba"/>
+    <ellipse cx="2.7" cy="-12" rx="3.3" ry="5.1" fill="#9f63ba"/>
+    <ellipse cx="-2.7" cy="-16.8" rx="3.3" ry="5.1" fill="#a96fc4"/>
+    <ellipse cx="2.7" cy="-16.8" rx="3.3" ry="5.1" fill="#a96fc4"/>
+    <ellipse cx="-2.7" cy="-21.6" rx="3.3" ry="5.1" fill="#b37bce"/>
+    <ellipse cx="2.7" cy="-21.6" rx="3.3" ry="5.1" fill="#b37bce"/>
+    <ellipse cx="-2.7" cy="-26.4" rx="3.3" ry="5.1" fill="#bd87d8"/>
+    <ellipse cx="2.7" cy="-26.4" rx="3.3" ry="5.1" fill="#bd87d8"/>
+    <ellipse cx="-2.7" cy="-31.2" rx="3.3" ry="5.1" fill="#c793e2"/>
+    <ellipse cx="2.7" cy="-31.2" rx="3.3" ry="5.1" fill="#c793e2"/>
+    <ellipse cx="-2.7" cy="-36" rx="3.3" ry="5.1" fill="#d19fec"/>
+    <ellipse cx="2.7" cy="-36" rx="3.3" ry="5.1" fill="#d19fec"/>
+    <ellipse cx="-2.7" cy="-40.8" rx="3.3" ry="5.1" fill="#dbabf6"/>
+    <ellipse cx="2.7" cy="-40.8" rx="3.3" ry="5.1" fill="#dbabf6"/>
+    <ellipse cx="-2.7" cy="-45.6" rx="3.3" ry="5.1" fill="#e5b7ff"/>
+    <ellipse cx="2.7" cy="-45.6" rx="3.3" ry="5.1" fill="#e5b7ff"/>
+    <ellipse cx="-2.7" cy="-50.4" rx="3.3" ry="5.1" fill="#efc3ff"/>
+    <ellipse cx="2.7" cy="-50.4" rx="3.3" ry="5.1" fill="#efc3ff"/>
+    <ellipse cx="-2.7" cy="-55.2" rx="3.3" ry="5.1" fill="#f9cffe"/>
+    <ellipse cx="2.7" cy="-55.2" rx="3.3" ry="5.1" fill="#f9cffe"/>
+  </g>
+</svg>

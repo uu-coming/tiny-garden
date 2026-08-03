@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Tiny Garden — "camellia" flower head. CC BY-NC 4.0 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="-35.01 -35.01 70.02 70.02">
+  <title>camellia</title>
+  <g>
+    <ellipse cx="0" cy="-14.7" rx="11.1" ry="14.7" fill="#fce4ec" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-14.7" rx="11.1" ry="14.7" fill="#fde8ef" transform="rotate(60)"/>
+    <ellipse cx="0" cy="-14.7" rx="11.1" ry="14.7" fill="#fce4ec" transform="rotate(120)"/>
+    <ellipse cx="0" cy="-14.7" rx="11.1" ry="14.7" fill="#fde8ef" transform="rotate(180)"/>
+    <ellipse cx="0" cy="-14.7" rx="11.1" ry="14.7" fill="#fce4ec" transform="rotate(240)"/>
+    <ellipse cx="0" cy="-14.7" rx="11.1" ry="14.7" fill="#fde8ef" transform="rotate(300)"/>
+    <ellipse cx="0" cy="-10.8" rx="8.7" ry="11.1" fill="#f9c6d9" transform="rotate(30)"/>
+    <ellipse cx="0" cy="-10.8" rx="8.7" ry="11.1" fill="#f5b8d0" transform="rotate(90)"/>
+    <ellipse cx="0" cy="-10.8" rx="8.7" ry="11.1" fill="#f9c6d9" transform="rotate(150)"/>
+    <ellipse cx="0" cy="-10.8" rx="8.7" ry="11.1" fill="#f5b8d0" transform="rotate(210)"/>
+    <ellipse cx="0" cy="-10.8" rx="8.7" ry="11.1" fill="#f9c6d9" transform="rotate(270)"/>
+    <ellipse cx="0" cy="-10.8" rx="8.7" ry="11.1" fill="#f5b8d0" transform="rotate(330)"/>
+    <ellipse cx="0" cy="-6.9" rx="6.3" ry="8.1" fill="#f5a9c0" transform="rotate(15)"/>
+    <ellipse cx="0" cy="-6.9" rx="6.3" ry="8.1" fill="#f09db5" transform="rotate(87)"/>
+    <ellipse cx="0" cy="-6.9" rx="6.3" ry="8.1" fill="#f5a9c0" transform="rotate(159)"/>
+    <ellipse cx="0" cy="-6.9" rx="6.3" ry="8.1" fill="#f09db5" transform="rotate(231)"/>
+    <ellipse cx="0" cy="-6.9" rx="6.3" ry="8.1" fill="#f5a9c0" transform="rotate(303)"/>
+    <ellipse cx="0" cy="-3.9" rx="4.2" ry="5.7" fill="#ec7aa1" transform="rotate(50)"/>
+    <ellipse cx="0" cy="-3.9" rx="4.2" ry="5.7" fill="#e86e96" transform="rotate(122)"/>
+    <ellipse cx="0" cy="-3.9" rx="4.2" ry="5.7" fill="#ec7aa1" transform="rotate(194)"/>
+    <ellipse cx="0" cy="-3.9" rx="4.2" ry="5.7" fill="#e86e96" transform="rotate(266)"/>
+    <ellipse cx="0" cy="-3.9" rx="4.2" ry="5.7" fill="#ec7aa1" transform="rotate(338)"/>
+    <circle cx="0" cy="0" r="4.8" fill="#fef08a"/>
+    <line x1="0" y1="0" x2="3.76" y2="0" stroke="#d4960e" stroke-width="0.27" opacity="0.65"/>
+    <circle cx="4.21" cy="0" r="0.45" fill="#fde047"/>
+    <line x1="0" y1="0" x2="3.58" y2="2.07" stroke="#d4960e" stroke-width="0.27" opacity="0.65"/>
+    <circle cx="3.97" cy="2.29" r="0.45" fill="#fde047"/>
+    <line x1="0" y1="0" x2="1.93" y2="3.34" stroke="#d4960e" stroke-width="0.27" opacity="0.65"/>
+    <circle cx="2.16" cy="3.73" r="0.45" fill="#fde047"/>
+    <line x1="0" y1="0" x2="0" y2="3.89" stroke="#d4960e" stroke-width="0.27" opacity="0.65"/>
+    <circle cx="0" cy="4.34" r="0.45" fill="#fde047"/>
+    <line x1="0" y1="0" x2="-2.06" y2="3.57" stroke="#d4960e" stroke-width="0.27" opacity="0.65"/>
+    <circle cx="-2.29" cy="3.96" r="0.45" fill="#fde047"/>
+    <line x1="0" y1="0" x2="-3.3" y2="1.91" stroke="#d4960e" stroke-width="0.27" opacity="0.65"/>
+    <circle cx="-3.69" cy="2.13" r="0.45" fill="#fde047"/>
+    <line x1="0" y1="0" x2="-3.89" y2="0" stroke="#d4960e" stroke-width="0.27" opacity="0.65"/>
+    <circle cx="-4.34" cy="0" r="0.45" fill="#fde047"/>
+    <line x1="0" y1="0" x2="-3.45" y2="-1.99" stroke="#d4960e" stroke-width="0.27" opacity="0.65"/>
+    <circle cx="-3.84" cy="-2.22" r="0.45" fill="#fde047"/>
+    <line x1="0" y1="0" x2="-1.86" y2="-3.22" stroke="#d4960e" stroke-width="0.27" opacity="0.65"/>
+    <circle cx="-2.09" cy="-3.61" r="0.45" fill="#fde047"/>
+    <line x1="0" y1="0" x2="0" y2="-4.12" stroke="#d4960e" stroke-width="0.27" opacity="0.65"/>
+    <circle cx="0" cy="-4.57" r="0.45" fill="#fde047"/>
+    <line x1="0" y1="0" x2="1.81" y2="-3.13" stroke="#d4960e" stroke-width="0.27" opacity="0.65"/>
+    <circle cx="2.03" cy="-3.52" r="0.45" fill="#fde047"/>
+    <line x1="0" y1="0" x2="3.24" y2="-1.87" stroke="#d4960e" stroke-width="0.27" opacity="0.65"/>
+    <circle cx="3.63" cy="-2.1" r="0.45" fill="#fde047"/>
+  </g>
+</svg>

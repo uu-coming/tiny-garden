@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Tiny Garden — "sunflower" flower head. CC BY-NC 4.0 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="-35.62 -35.62 71.24 71.24">
+  <title>sunflower</title>
+  <g>
+    <ellipse cx="0" cy="-19.2" rx="5.4" ry="12" fill="#fef08a" transform="rotate(0)"/>
+    <ellipse cx="0" cy="-19.2" rx="5.4" ry="12" fill="#fde047" transform="rotate(25.71)"/>
+    <ellipse cx="0" cy="-19.2" rx="5.4" ry="12" fill="#fef08a" transform="rotate(51.43)"/>
+    <ellipse cx="0" cy="-19.2" rx="5.4" ry="12" fill="#fde047" transform="rotate(77.14)"/>
+    <ellipse cx="0" cy="-19.2" rx="5.4" ry="12" fill="#fef08a" transform="rotate(102.86)"/>
+    <ellipse cx="0" cy="-19.2" rx="5.4" ry="12" fill="#fde047" transform="rotate(128.57)"/>
+    <ellipse cx="0" cy="-19.2" rx="5.4" ry="12" fill="#fef08a" transform="rotate(154.29)"/>
+    <ellipse cx="0" cy="-19.2" rx="5.4" ry="12" fill="#fde047" transform="rotate(180)"/>
+    <ellipse cx="0" cy="-19.2" rx="5.4" ry="12" fill="#fef08a" transform="rotate(205.71)"/>
+    <ellipse cx="0" cy="-19.2" rx="5.4" ry="12" fill="#fde047" transform="rotate(231.43)"/>
+    <ellipse cx="0" cy="-19.2" rx="5.4" ry="12" fill="#fef08a" transform="rotate(257.14)"/>
+    <ellipse cx="0" cy="-19.2" rx="5.4" ry="12" fill="#fde047" transform="rotate(282.86)"/>
+    <ellipse cx="0" cy="-19.2" rx="5.4" ry="12" fill="#fef08a" transform="rotate(308.57)"/>
+    <ellipse cx="0" cy="-19.2" rx="5.4" ry="12" fill="#fde047" transform="rotate(334.29)"/>
+    <circle cx="0" cy="0" r="9.6" fill="#b8860b"/>
+    <circle cx="0" cy="0" r="6" fill="#8b6914"/>
+    <circle cx="-2.4" cy="-2.4" r="2.4" fill="#5c4609" opacity="0.6"/>
+  </g>
+</svg>

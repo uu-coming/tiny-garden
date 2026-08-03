@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Tiny Garden — "tulip" flower head. CC BY-NC 4.0 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="-24.84 -30.4 49.68 49.68">
+  <title>tulip</title>
+  <g>
+    <ellipse cx="-7.2" cy="-3" rx="9" ry="13.8" fill="#f9c6d9" transform="rotate(-18)"/>
+    <ellipse cx="7.2" cy="-3" rx="9" ry="13.8" fill="#f5a9c0" transform="rotate(18)"/>
+    <ellipse cx="0" cy="-9.9" rx="8.1" ry="16.5" fill="#fce4ec"/>
+  </g>
+</svg>
